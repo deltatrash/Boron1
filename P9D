@@ -2191,5 +2191,3 @@ do -- RECONECTAR + INICIAR
 		if configLoaded then print("[PrimeDuels] Config aplicada!") end
 	end)
 end
- 
-print("[PrimeDuels] Carregado! U=GUI | V=Speed | 0=Spin | X=AutoBat | Z=AutoRight | G=RestamAuto | J=SpamBat | F=SpeedSteal | H=NoClip | T=Float")
